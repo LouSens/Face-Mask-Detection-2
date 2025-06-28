@@ -1,6 +1,6 @@
 # Real-Time Face Mask Detection
 
-A continuation of a group project originally developed during my first-year undergraduate (third semester). This version significantly improves the model’s accuracy and generalization across various real-world conditions, making it robust against challenges like lighting variations, crowd density, and camera sensitivity.
+A continuation of a group project originally developed during my first-yea undergraduate (third semester). This version significantly improves the model’s accuracy and generalization across various real-world conditions, making it robust against challenges like lighting variations, crowd density, and camera sensitivity.
 
 ## ✨ Key Improvements
 
