@@ -108,7 +108,7 @@ The model achieves:
 
 ## 👤 Author
 
-Developed and maintained by **\David Huang** — a first-year undergraduate student. This project is a personal improvement on a previously group-developed version, with major enhancements in performance and reliability.
+Developed and maintained by **David Huang** — a first-year undergraduate student. This project is a personal improvement on a previously group-developed version, with major enhancements in performance and reliability.
 
 ---
 
