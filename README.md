@@ -31,9 +31,13 @@ A continuation of a group project originally developed during my first-year unde
 pip install tensorflow opencv-python matplotlib scikit-learn
 ```
 
-### 2. Prepare Dataset
+### 2. Download Dataset from Hugging Face
 
-Ensure your dataset is organized as follows:
+The dataset used for training is stored externally due to its large size. You can access and download it from the Hugging Face repository:
+
+🔗 **[Face Mask Detection Dataset on Hugging Face](https://huggingface.co/datasets/HuangYiYang/Face-Mask-Detection-Dataset)**
+
+Once downloaded, place the dataset in a folder named `dataset/` with the following structure:
 
 ```
 dataset/
@@ -44,6 +48,8 @@ dataset/
     ├── image2.jpg
     └── ...
 ```
+
+> Make sure the local folder structure matches this layout to ensure the script runs correctly.
 
 ### 3. Train the Model
 
